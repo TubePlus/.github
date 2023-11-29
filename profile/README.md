@@ -36,7 +36,15 @@
 
 ### 💻 Front-end
 
-[![React](https://camo.githubusercontent.com/20779f9d605be40d4f84bbc93a5fee22e86068e785a0c0ed8d90d3d15041a3fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b)](https://camo.githubusercontent.com/20779f9d605be40d4f84bbc93a5fee22e86068e785a0c0ed8d90d3d15041a3fc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6f676f3d5265616374266c6f676f436f6c6f723d626c61636b) [![TypeScript](https://camo.githubusercontent.com/6a138baf27a486e6fb68d759541144cd7ddfbff9839b41fb3f64b16458575a7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/6a138baf27a486e6fb68d759541144cd7ddfbff9839b41fb3f64b16458575a7f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065266c6f676f436f6c6f723d7768697465) ![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)![reactquery](https://img.shields.io/badge/reactquery-FF4154.svg?style=for-the-badge&logo=reactquery&logoColor=white) ![styled-components](https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white) 
+![Node](https://img.shields.io/badge/Node.js-20.6.1-339933?style=for-the-badge&logo=Node.js&logoColor=fff)
+![npm](https://img.shields.io/badge/npm-10.1.0-CB3837?style=for-the-badge&logo=npm&logoColor=fff)
+![Next.js](https://img.shields.io/badge/Next.js-13.5.4-000000?style=for-the-badge&logo=Next.js&logoColor=fff)
+![typescript](https://img.shields.io/badge/typescript-5.2.2-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![tailwind](https://img.shields.io/badge/tailwindcss-3.3.3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff)
+![nextui](https://img.shields.io/badge/nextui-2.1.13-000000?style=for-the-badge&logo=nextui&logoColor=fff)
+![radixicon](https://img.shields.io/badge/radixicon-2.1.13-161618?style=for-the-badge&logo=radixui&logoColor=fff)
+![framer](https://img.shields.io/badge/framer-10.16.4-0055FF?style=for-the-badge&logo=framer&logoColor=fff)
+![reactquery](https://img.shields.io/badge/reactquery-4.36.1-FF4154.svg?&style=for-the-badge&logo=ReactQuery&logoColor=white)
 
 
 
