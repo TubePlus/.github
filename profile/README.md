@@ -1,8 +1,9 @@
-# Tube Plus
+# TubePlus
 
 ### - 
 
 ![image-20230518155213962](assets/image-20230518155213962.png)
+![Group 37793](https://github.com/TubePlus/.github/assets/77543446/8053c593-23aa-4831-9cb9-a22bf46d0896)
 
 ## 💻 업무 분장
 
