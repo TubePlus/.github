@@ -8,6 +8,8 @@
 
 ### 커뮤니티
 
+- 커뮤니티 가입
+
 ![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/0fc9c58d-29b8-42e8-aecd-f91c8094eae0)
 
 
