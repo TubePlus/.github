@@ -9,9 +9,13 @@
 ### 커뮤니티
 
 
-- 커뮤니티 가입 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ●  커뮤니티, 게시판 생성
+- 커뮤니티 가입
 
-![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/838f3a2d-c8f1-40f8-841d-c29b8baa4a67) ![커뮤니티 생성](https://github.com/TubePlus/.github/assets/140700973/40fbd0dd-c876-4720-9d08-3833fcefb196)
+![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/838f3a2d-c8f1-40f8-841d-c29b8baa4a67)
+
+- 커뮤니티, 게시판 생성
+
+![커뮤니티 생성](https://github.com/TubePlus/.github/assets/140700973/40fbd0dd-c876-4720-9d08-3833fcefb196)
 
 
 
