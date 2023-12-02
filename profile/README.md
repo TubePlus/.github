@@ -11,7 +11,7 @@
 
 - 커뮤니티 가입 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ●  커뮤니티, 게시판 생성
 
-![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/0fc9c58d-29b8-42e8-aecd-f91c8094eae0)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![커뮤니티생성, 게시판 생성](https://github.com/TubePlus/.github/assets/140700973/9105606a-adf5-4a2f-9a91-4bb5ef7cc662)
+![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/0fc9c58d-29b8-42e8-aecd-f91c8094eae0)  &nbsp; &nbsp; &nbsp; &nbsp; ![커뮤니티생성, 게시판 생성](https://github.com/TubePlus/.github/assets/140700973/9105606a-adf5-4a2f-9a91-4bb5ef7cc662)
 
 
 
