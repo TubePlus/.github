@@ -125,6 +125,4 @@
 
 ## 🔊 API 명세서
 
-##### [API 명세서 링크]()
-
-![api 연동규격서](https://docs.google.com/spreadsheets/d/1KsbYtnBHnyVvlwZLQ_SGXVpa-z77r8mo/edit#gid=664530878)
+##### [API 명세서 링크](https://docs.google.com/spreadsheets/d/1KsbYtnBHnyVvlwZLQ_SGXVpa-z77r8mo/edit#gid=664530878)
