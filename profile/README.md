@@ -6,16 +6,7 @@
 
 
 
-### 커뮤니티
 
-
-- 커뮤니티 가입
-
-![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/838f3a2d-c8f1-40f8-841d-c29b8baa4a67)
-
-- 커뮤니티, 게시판 생성
-
-![커뮤니티 생성](https://github.com/TubePlus/.github/assets/140700973/40fbd0dd-c876-4720-9d08-3833fcefb196)
 
 
 
@@ -92,11 +83,16 @@
 
 ## 💻 웹
 
-#### 메인 화면
+### 커뮤니티
 
-: 
 
-![메인](assets/main.gif)
+- 커뮤니티 가입
+
+![커뮤니티 가입](https://github.com/TubePlus/.github/assets/140700973/838f3a2d-c8f1-40f8-841d-c29b8baa4a67)
+
+- 커뮤니티, 게시판 생성
+
+![커뮤니티 생성](https://github.com/TubePlus/.github/assets/140700973/40fbd0dd-c876-4720-9d08-3833fcefb196)
 
 
 
@@ -140,4 +136,4 @@
 
 ##### [API 명세서 링크]()
 
-![api 연동규격서](assets/api.gif)
+![api 연동규격서](https://docs.google.com/spreadsheets/d/1KsbYtnBHnyVvlwZLQ_SGXVpa-z77r8mo/edit#gid=664530878)
