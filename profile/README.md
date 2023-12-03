@@ -127,11 +127,36 @@
 
 ---
 
-### notice
+## 사용자 경험을 향상시키기 위한 노력
+1)
+- AWS를 통한 auto Scale-out
+- helm, terraform을 통한 쿠버네티스 구현으로 etc서버 배포
+- jenkins-> GitAction + ArgoCD 적용
+![쿠버네티스 구현도](asset/aws.png)
 
-![notice](assets/notice.png)
+2)
+- 나머지 서버는 Spring Cloud를 통해 배포
+![infra 구성](asset/infra구축도.png)
 
----
+3) 
+- batch를 통한 반복되고 자주 찾는 요소는 cache이용으로 속도 개선
+![redis](asset/redis.png)
+
+4) 
+- 헥사고날을 통한 도메인을 web과 service를 port로 분리해서 쉽게 MSA를 할 수 있고, 재사용성 있는 코드를 재현하려고 함
+![헥사고날](asset/헥사고날.png)
+
+5) 
+- 읽기와 쓰기가 다양한 타입이 들어가고, 데이터 양이 많은 게시글을 읽기, 쓰기로 도메인 분리
+- DB도 replica를 통해 분리 -> MySQL, MySQLReplica
+![CQRS](asset/cqrs.png)
+
+6) 
+- 정산되는 자료들을 batch를 통해 page단위로 모아서 처리하고, 한번에 저장해서 쿼리를 단축
+- 처리되지 않은 데이터에 대해서 2회 반복해서 신뢰도 향상, 연산되지 않은 데이터 따로 기록
+![batch](asset/batch구축도.png)
+  
+
 
 ## 🔊 API 명세서
 
