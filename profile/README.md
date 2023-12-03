@@ -1,4 +1,6 @@
 # TubePlus
+현재 서비스 로그인 승인 대기중(Google Auth)
+페이지 : https://my.tubeplus.online 
 
 ### 메인화면 
 
