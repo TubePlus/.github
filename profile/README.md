@@ -58,19 +58,32 @@
 ### 💻 Back-end
 
 [![JAVA](https://camo.githubusercontent.com/3a1c7dafcdfce483e68f5fb95d057e9421c8109fd105e603542b1ff00fd7ae91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/3a1c7dafcdfce483e68f5fb95d057e9421c8109fd105e603542b1ff00fd7ae91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a4156412d4646303030303f7374796c653d666f722d7468652d6261646765266c6f676f436f6c6f723d7768697465) [![Spring](https://camo.githubusercontent.com/57da5a02a135c27818a618285a57f7e54df63419d1f7ad598905a0bd27e780c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67626f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/57da5a02a135c27818a618285a57f7e54df63419d1f7ad598905a0bd27e780c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e67626f6f742d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67626f6f74266c6f676f436f6c6f723d7768697465) [![Gradle](https://camo.githubusercontent.com/e850f9c862ce515586c3859cab52395f8d096f0de68825fdaaf6b9bea572311e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f477261646c652d3032333033413f7374796c653d666f722d7468652d6261646765266c6f676f3d677261646c65266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/e850f9c862ce515586c3859cab52395f8d096f0de68825fdaaf6b9bea572311e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f477261646c652d3032333033413f7374796c653d666f722d7468652d6261646765266c6f676f3d677261646c65266c6f676f436f6c6f723d7768697465) [![JWT](https://camo.githubusercontent.com/5af78a02d0f7a4b8a759f9580ce718287a0626f80a55c38ad0bac83e0b31f94d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e776562746f6b656e73266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/5af78a02d0f7a4b8a759f9580ce718287a0626f80a55c38ad0bac83e0b31f94d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a57542d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e776562746f6b656e73266c6f676f436f6c6f723d7768697465) ![Kafka](https://camo.githubusercontent.com/1b371597d577a5f430f0dbc8a356d8951f0b7a6d7dded5eb99e2b4cf1593397f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6b61666b612d3233314632303f7374796c653d666f722d7468652d6261646765266c6f676f3d6170616368656b61666b61266c6f676f436f6c6f723d7768697465)
-![springcloud](https://img.shields.io/badge/springcloud-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![springbatch](https://img.shields.io/badge/springbatch-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![springcloud](https://img.shields.io/badge/springcloud-6DB33F?style=for-the-badge&logo=soundcloud&logoColor=white)
 
 ### 💾 DB
 
 ![MySQL](https://img.shields.io/badge/MySQL-003545?style=for-the-badge&logo=mysql&logoColor=white)
-![AmazonRDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white) <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=Swift&logoColor=white"/>
+![AmazonRDS](https://img.shields.io/badge/AmazonRDS-527FFF?style=for-the-badge&logo=AmazonRDS&logoColor=white) <img src="https://img.shields.io/badge/    redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
 
 
 ### ⚙CI/CD
 
 [![docker](https://camo.githubusercontent.com/b184cf7adbab9f5464e80c0f5dd32c85393f6248499a57d743e619f4214391c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/b184cf7adbab9f5464e80c0f5dd32c85393f6248499a57d743e619f4214391c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465)
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+
+### 💻 INFRA
+
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Apache EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 
 
