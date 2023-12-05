@@ -77,7 +77,7 @@
 
 ### 💻 INFRA
 
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/Apache Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/Apache EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/><img src="https://img.shields.io/badge/Apache Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/><img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white"/><img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
 
 
