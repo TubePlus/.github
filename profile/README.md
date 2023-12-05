@@ -1,7 +1,7 @@
 # TubePlus
 현재 서비스 로그인 승인 대기중(Google Auth)
 페이지 : https://my.tubeplus.online 
-
+노션 : https://colossal-whip-d19.notion.site/ACEs-4d1370f673604fdcb7ad9a18f0442867?pvs=4
 ### 메인화면 
 
 ![메인화면](asset/메인화면.gif)
